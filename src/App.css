@@ -1,0 +1,82 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+main {
+  width: 100%;
+
+  .question {
+    font-weight: bold;
+
+    h1 {
+      font-size: x-small;
+    }
+
+    .brano {
+      color: gray;
+      font-weight: 100;
+      font-size: small;
+    }
+  }
+
+  picture {
+    display: block;
+    background-color: white;
+    border: solid 3px gray;
+    border-radius: 6px;
+    padding: 0.25rem 0.5rem;
+    margin: 0.25rem;
+    overflow-x: auto;
+
+    img {
+      max-width: 100%;
+    }
+  }
+
+  .answers {
+    text-align: left;
+
+    div {
+      margin: 0.5em 1em;
+    }
+
+    .clickedAnswer {
+      color: orangered;
+    }
+    
+    .correct {
+      color: greenyellow;
+      font-weight: bold;
+    }
+  }
+
+  footer {
+    margin-top: 1rem;
+  }
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
