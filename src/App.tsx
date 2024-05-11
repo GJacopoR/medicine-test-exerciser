@@ -1,7 +1,6 @@
 import './App.css'
 import { useEffect, useState } from 'react'
 import { Markup } from 'interweave'
-import reactStringReplace from 'react-string-replace';
 
 interface Answer {
   id: string
