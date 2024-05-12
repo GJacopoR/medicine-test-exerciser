@@ -16,8 +16,8 @@ main {
     }
 
     .brano {
-      color: gray;
-      font-weight: 100;
+      color: lightgrey;
+      font-weight: normal;
       font-size: small;
     }
   }
@@ -46,7 +46,7 @@ main {
     .clickedAnswer {
       color: orangered;
     }
-    
+
     .correct {
       color: greenyellow;
       font-weight: bold;

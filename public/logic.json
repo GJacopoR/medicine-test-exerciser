@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Risolvere la tabella di verità {“non A” AND “non B”} (che  sarà vera solo per A e B falsi), e negarla. Diventerà falsa solo per A e B falsi, come in A  OR B."
+  },
+  {
+    "id": 2,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Immaginando l’orologio speculare rispetto all’asse  verticale, questo indica le 8.15. Dopo 95 minuti, sono le 9.50."
+  },
+  {
+    "id": 3,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La figura 3 ha un triangolo in più e manca di un  quadrilatero."
+  },
+  {
+    "id": 4,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Stefano Giovanni, essendo volontario, ha più di 24 anni,  ma non necessariamente è presente in stanza. Le persone presenti in stanza sono un  sottoinsieme degli over-24, non viceversa."
+  },
+  {
+    "id": 5,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ad ogni scatto di un dente di una ruota corrisponde uno  scatto dell’altra. La ruota grande con 2 giri scatta di 90 di 180 denti. 180/60 = 3"
+  },
+  {
+    "id": 6,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ad ogni vocale “@” viene sostituito il gruppo letterale  “@T@” (es. A -> ATA). Riscrivere la parola “Contemporaneo” seguendo la regola."
+  },
+  {
+    "id": 7,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Fare tabella: Federico è necessariamente ultimo perché  almeno tre persone davanti ma non è quarto altrimenti Giacomo sarebbe primo.  Giacomo quindi è secondo. Simmetricamente Marcello necessariamente è primo,  Leonardo è quarto. L’ordine finale è: Marcello – Giacomo – Alessandro – Leonardo -  Federico"
+  },
+  {
+    "id": 8,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Condizione necessaria e sufficiente. Le affermazioni  sono equivalenti poiché la condizione è necessaria e sufficiente. Una implica l’altra e  viceversa."
+  },
+  {
+    "id": 9,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Poiché le gonne sono 76 si ha che vale la proporzione  Camicetta : 76 = 3 : 4 da cui le camicette sono 57. Quindi, per l’altra proporzione si  ha che abiti : 57 = 5 : 3  da cui gli abiti sono 95. 76+57+95 = 228  "
+  },
+  {
+    "id": 10,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Grandezze direttamente e inversamente proporzionali.  Poiché è lo stesso lavoro, le grandezze in gioco sono elettricisti e ore, che sono  inversamente proporzionali, quindi mantengono costante il loro prodotto. 22 * 3 = 6  * x. Ne consegue che x = 11."
+  },
+  {
+    "id": 11,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sillogismi. Rosina va in fumetteria e chi va in fumetteria  indossa spesso la t-shirt dei supereroi, quindi Rosina lo fa."
+  },
+  {
+    "id": 12,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Tavole di verità. Risolvere la tabella di verità {“non A”  OR “non B”} (falsa solo per A e B veri) e negarla. Diventerà vera solo per A e B veri,  quindi uguale alla tabella di A AND B."
+  },
+  {
+    "id": 13,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Tavole di verità. Con un solo Vero tra i risultati  potrebbe essere: -  un AND, ma dovrebbe essere {“non A” AND “B”}, per ottenere un vero sulla terza  riga, e questo non è presente tra le risposte  -  un OR negato (OR ha tre veri e un falso, negato diventa il contrario).  Quindi sarà proprio il negato di {“A” OR “non B”}."
+  },
+  {
+    "id": 14,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Tavole di verità. Costruire la tabella di verità  dell’espressione: l’implicazione è falsa solo nel caso di Vero -> Falso, ossia quando A  e B sono vere e C è falsa. Per il resto è sempre vera. La risposta [A] ha la tabella di  verità identica, poiché è vera se C è vera. Se C è falsa continua ad essere vera  quando {“non A” OR “non B”} è vera, ossia sempre tranne nel caso in cui A e B siano  vere."
+  },
+  {
+    "id": 15,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Tavole di verità. L’implicazione è falsa solo nel caso di  Vero -> Falso. Stessa espressione della domanda 0014, che quindi è falsa quando A e  B sono vere (unico caso in cui il loro AND è vero) e C è falsa."
+  },
+  {
+    "id": 16,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. proporzioni.   5 : 9 = 450 : x da cui x = 450*9/5 = 810"
+  },
+  {
+    "id": 17,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Basta applicare le operazioni descritte al partire dal 2  che è la prima cifra:  2 ;   2 + 4 = 6;"
+  },
+  {
+    "id": 18,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "6/2 = 3 ;   2*2 + 3 = 7  La risposta corretta è la [A]. Minimo comune multiplo. Basta trovare il più piccolo  multiplo comune ai 3 intervalli di tempo, appunto l’mcm, 23 * 32 = 72  "
+  },
+  {
+    "id": 19,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ricostruzione di sequenze. Il giorno del calcetto, che è il  seguente di quello che precede domenica, è, di fatto, domenica, che è il  dopodomani di venerdì, il cui ieri è giovedì, giorno del beach volley."
+  },
+  {
+    "id": 20,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Creare lo schema e riempirlo con le informazioni fino a  trovare quella richiesta: Il nero è al secondo piano, il lilla gli è accanto, e a sua volta  è accanto all’arancione. I colori rimanenti, bianco e viola, sono necessariamente al  primo piano insieme al grigio."
+  },
+  {
+    "id": 21,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ricostruire le possibilità attraverso le informazioni date:  Damiano non può essere laureato, perché lo sarebbe anche Leonardo (info 1) e  Samuele e Christian per esclusione non lo sarebbero (contraddicendo la info 2).  Tuttavia, essendoci un solo laureato tra Samuele e Christian (sempre info 2), l’altro  deve essere uno tra Damiano e Leonardo, e avendo già escluso il primo, sarà quindi  Leonardo. La info 3 dice Leonardo laureato implica Christian laureato, da cui la  risposta."
+  },
+  {
+    "id": 22,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La bilancia a due piatti prevede di dividere il campione  in 3 sottoinsiemi: piatto sinistro – piatto destro – oggetti lasciati fuori. Divido le 6  monete in tre insiemi da 2 monete, identificando quindi la coppia di monete in cui è  presente quella più pesante. La seconda pesata mi chiarirà quale è tra le due."
+  },
+  {
+    "id": 23,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Maurizio è appassionato di meteorologia, che dai  sillogismi della traccia non implica nulla. Per far sì che Maurizio sia uno sciatore,  bisogna che la sua categoria di appartenenza implichi a sua volta che si è sciatori."
+  },
+  {
+    "id": 24,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Gli attivi sono sottoinsieme dei magri che sono  sottoinsieme di chi non ama i dolci. Se Marco fosse attivo, sarebbe magro, e non  amerebbe i dolci. Aiutarsi eventualmente con i diagrammi degli insiemi inclusi uno  nell’altro."
+  },
+  {
+    "id": 25,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Condizione necessaria. Solo se studi, passi l’esame è la  definizione di condizione necessaria."
+  },
+  {
+    "id": 26,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Calcolo percentuale:   200 * (1 + x/100) = 300 da cui x/100 = 3/2 – 1 quindi x = 50  In maniera più intuitiva, il numero 200 è aumentato di 100 che è la sua metà (50%)  "
+  },
+  {
+    "id": 27,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Lungo l’alfabeto, a partire dalla lettera V, si va  all’indietro di una posizione (U), poi di due (S), poi di tre (P). Il passaggio successivo è  tornare indietro di quattro posizioni (L)."
+  },
+  {
+    "id": 28,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Calcolo percentuale.   X * 150/100 * 50/100  = X *75/100 = 75% di X   Y * 50/100 *150/100 = Y * 75/100 = 75% di Y  X e Y sono entrambi diminuiti del 25%."
+  },
+  {
+    "id": 29,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. In una linea aperta gli intervalli tra un platano e l’altro  sono uno in meno dei platani totali. Avendo 24 di platani su entrambi i lati, si  ricavano 23 intervalli. Da cui 92/23 = 4 metri."
+  },
+  {
+    "id": 30,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Condizione necessaria. “Solo se ho lavato la macchina  posso lucidarla” implica che “se non l’ho lavata allora non posso lucidarla”. Ma se  non è stata lucidata, non si può dire nulla sull’avvenuto lavaggio."
+  },
+  {
+    "id": 31,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Tavole di verità. {“non A” OR “B”} è falsa quando A è  vera e B è falsa. Quindi non è una tautologia (la tautologia è sempre vera)."
+  },
+  {
+    "id": 32,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sistemi di equazioni lineari.   2F + P = 8 e  F + 2P = 7  Risolvendo si ha che F = 3 e P = 2 da cui la risposta."
+  },
+  {
+    "id": 33,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Negazioni di quantificatori. “Nessun mammifero è  carnivoro” implica “Tutti i mammiferi non sono carnivori”. Negandola il  quantificatore universale diventa esistenziale, ed il verbo viene negato: “Almeno un  mammifero è carnivoro”"
+  },
+  {
+    "id": 34,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Negazioni di quantificatori. La negazione trasforma il  quantificatore esistenziale in universale e nega il verbo: “Tutti i cani non sono  pastori tedeschi” che equivale a dire “Nessun cane è un pastore tedesco”"
+  },
+  {
+    "id": 35,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Negazioni di quantificatori. Come nella precedente, il  quantificatore diventa universale e il verbo viene negato: “Tutti i mammiferi sono  erbivori”"
+  },
+  {
+    "id": 36,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sillogismo. È un sillogismo diretto. I filosofi è un  sottoinsieme dei greci, che è sottoinsieme dei mortali. I filosofi sono quindi mortali.  "
+  },
+  {
+    "id": 37,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sillogismo. Basta sostituire “nessun mammifero vola”  con l’equivalente “tutti i mammiferi non volano”. Il sillogismo è diretto come nella  domanda precedente e quindi “tutti gli asini non volano”, equivalente a “nessun  asino vola”."
+  },
+  {
+    "id": 38,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. C1 esclude 312 e 110; C2 esclude 222 e C3 esclude 220"
+  },
+  {
+    "id": 39,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. C1 esclude 220, C2 esclude 212, C3 esclude 212 e 312."
+  },
+  {
+    "id": 40,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Condizione necessaria e sufficiente. Mangiare il dolce è  condizione sufficiente per lavare i denti, quindi lavare i denti è condizione necessaria  per mangiare il dolce."
+  },
+  {
+    "id": 41,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. È una condizione necessaria: “solo se c’è l’adulto, il  bambino entra in acqua”. Vale la direzione opposta dell’implicazione con la  negazione, ossia “se non c’è l’adulto, il bambino non entra in acqua”"
+  },
+  {
+    "id": 42,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sistemi a due incognite.  X + Y = 15   e   (X+1)*(Y+1) = 60  Risolvendo si ha somma pari a 15 e prodotto pari a 44, ossia 4 e 11.   Si può anche partire dalle alternative e notare che 4+11=15 e (4+1)*(11+1)=60, ovvero  4 e 11 sono gli unici valori che rispettano le condizioni imposte nel testo del quesito."
+  },
+  {
+    "id": 43,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sistemi a due incognite.  2*(m-3) = M-3  e  2*m +  (M – m) = 27  Risolvendo, ho M = 17 e m = 10.   Come nel quesito precedente, partendo dalle alternative, si noti che 10 e 17 sono gli  unici valori che rispettano le condizioni imposte nel testo."
+  },
+  {
+    "id": 44,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].   La somma delle due spese è la somma delle due frazioni quindi, con il minimo  comun denominatore, sarà   (6+14)/21 = 20/21  della somma iniziale. Ne resta 1/21."
+  },
+  {
+    "id": 45,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].   Impostare l’espressione ad una variabile P (numero di persone totali)  P*(1/3) + P*(1/4) + P*(1/4) +4 = P  Svolgendo i calcoli e ricavando P si ottiene che P = 24.  "
+  },
+  {
+    "id": 46,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Calcolo percentuale.  Il ricarico è di 200 euro che rappresenta il 10% di 2000 (prezzo iniziale)"
+  },
+  {
+    "id": 47,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Calcolo combinatorio. Sono 3 scatole per 8, ossia 24  piccole, alle quali vanno sommate le 8 di grandezza intermedia più infine quella  grande. In totale 24 + 8 + 1 = 33."
+  },
+  {
+    "id": 48,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Equazione ad una incognita.   Detto X il costo della confezione, si avrà che la crema costa X + 39. La somma è  X + (X + 39) = 43  Da cui X = 2€"
+  },
+  {
+    "id": 49,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Problemi di fisica con velocità costante. Poiché impiega  30 minuti, il tragitto è quindi 1/2 ora. Dalla formula s=v*t si ricava che s = 60 * 1/2 =  30 Km. Avendo 20 minuti di tempo, ossia 1/3 di ora, dovrà avere una velocità media  pari a v= s/t = 30 / (1/3) = 90 Km/h."
+  },
+  {
+    "id": 50,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Calcolo percentuale. Con lo sconto ho pagato l’85% del  prezzo perciò  X * 0.85 = 231,20  Da cui il prezzo non scontato X sarà dato da 231,20 * 100/85 = 272€."
+  },
+  {
+    "id": 51,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Non possono esserci due donne, altrimenti prendendole  a caso sarebbe falsa la seconda affermazione. Le donne, quindi, sono 0 o 1, ma la  prima affermazione dice che almeno una donna è presente al comizio."
+  },
+  {
+    "id": 52,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].  Conversione di unità di misura. Trasformiamo i minuti in  ore: 1405 minuti diviso 60 corrispondono a 23 ore col resto di 25 minuti, che sommate  alle 18:20 mi restituirà le 17:45 (del giorno dopo ovviamente)"
+  },
+  {
+    "id": 53,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Proporzioni verbali. La risposta X = domenica e Y = martedì  è l’unica che rispetta le distanze temporali tra i termini della proporzione (nel nostro  caso la distanza è -1 giorno)"
+  },
+  {
+    "id": 54,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sono 32 libri di biologia, 48 di medicina, 56 di letteratura,  8 di chimica e 16 di storia.  Biologia e storia è l’unica combinazione la cui somma è 48."
+  },
+  {
+    "id": 55,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Poiché il braccio sinistro misura il triplo del braccio destro,  affinché sia in equilibrio ci vuole un peso a destra che sia un terzo di 36, ossia 12 pesi  campione."
+  },
+  {
+    "id": 56,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ragionando soltanto sulla velocità si ha che   • C è tra i primi 4, e B tra gli ultimi 4  • A viene dopo B, quindi 3°o 4°. Non può essere 5° perché D è più lento. B non  può più essere 4° né 5°. C ne ha tre più lenti di lui, quindi è 1° o 2°.   • E è più veloce di D ma meno di A, necessariamente sarà 4°, con D 5° e A 3°. B  quindi è fissato 2° e C 1°è il più veloce.   "
+  },
+  {
+    "id": 57,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Aiutandosi con un triangolo composto da 4 triangolini o  da 9 triangolini si capisce che il numero di triangolini è pari al quadrato della lunghezza  (in lato del triangolino) del lato del triangolo grande. Il quadrato perfetto più vicino a  985 è 31, il cui quadrato è 961. Restano 24 triangolini inutilizzati."
+  },
+  {
+    "id": 58,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Negare il quantificatore universale implica un  quantificatore esistenziale con verbo negato: almeno una persona alta non è buona."
+  },
+  {
+    "id": 59,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Condizione sufficiente. È equivalente a “Se corro a lungo  consumo grassi”, condizione sufficiente, che è equivalente a sua volta a “Se non  consumo grassi, allora non ho corso a lungo” (direzione dell’implicazione invertita,  proprietà negate)"
+  },
+  {
+    "id": 60,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Niccolò non è nato a Parigi Tommaso non ha periodo di  formazione, Michele ha tutti i requisiti ed è stato arruolato, Giorgio potrebbe essere  arruolate ma ricordiamo che non è un obbligo. Enea invece è fuori età massima, non  è possibile che sia stato arruolato."
+  },
+  {
+    "id": 61,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. L’igrometro è lo strumento per misurare l’umidità  dell’ambiente così come l’anemometro misura la velocità del vento."
+  },
+  {
+    "id": 62,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Criteri di divisibilità ed equazioni con interi. Il numero  delle scatole è dispari ed è divisibile per 3. Inoltre, dando resto 4 dalla divisione per 5  termina con 4 o 9, ma poiché è dispari, termina necessariamente con 9. I numeri  divisibili per 3 e che terminano per 9, limitati all’intervallo 4-45 sono 9 e 39, due sole  possibilità.  "
+  },
+  {
+    "id": 63,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Se considero un cubo di lato L e lo riempio con una sfera  di diametro L, avrò che il rapporto tra volume del cubo e volume della sfera è un valore  (6/π, ma non è rilevante ai fini dell’esercizio). Se unisco 4 cubi riempiti con 4 sfere in  modo da avere un cubo più grande, avrò che il volume dei cubi quadruplica così come  quello delle sfere, mantenendo costante il rapporto. Rapporto che resterebbe uguale  se prendo un cubo grande quanto i 4 cubi, e lo riempissi con una sfera grande. Perciò,  se le sfere sono posizionate in modo ordinato e completo, il rapporto tra volume  totale e volume pieno resta lo stesso, indipendentemente dal diametro della sfera.  Poiché sono tutte dello stesso materiale (e quindi peso specifico), e poiché il peso è  dato dal peso specifico per il volume, queste avranno tutte lo stesso peso."
+  },
+  {
+    "id": 64,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Poiché ogni cerchio è tangente agli altri due, la somma  dei raggi di due cerchi mi dà un lato del triangolo rettangolo (vedi disegno)  La somma dei raggi più grandi sarà quindi l’ipotenusa. 2,3,10 mi danno come somme  5, 12 e 13 che è una terna pitagorica."
+  },
+  {
+    "id": 65,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "a risposta corretta è la [A]. Condizioni necessarie e sufficienti. La condizione  necessaria implica che una funzione derivabile è necessariamente continua. La  successiva condizione sufficiente ci assicura che la funzione continua è integrabile,  per cui, con un semplice sillogismo, si deduce che la funzione derivabile è integrabile."
+  },
+  {
+    "id": 66,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Avendo acquistato due esemplari per ogni volatile, ha  speso 24 + 18 + 12 = 54 euro per 6 volatili. Il resto della spesa, 81 – 54 = 27 euro viene  coperto da 4 volatili. 27 è un numero dispari, e potendolo ottenere come somma di  12, 9 e 6, deve avere un solo 9, ossia un solo piccione. Tre piccioni già coprirebbero i  27 euro, togliendo soldi associabili all’ultimo volatile acquistato. Restano quindi 27 –  9 = 18 euro, spesi comprando 3 volatili. Necessariamente sono 3 quaglie, per cui la  totale combinazione consiste in 2 pernici, 3 piccioni e 5 quaglie   2 x 12 + 3 x 9 + 5 x 6 = 81 €  "
+  },
+  {
+    "id": 67,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Percentuali. Il prezzo iniziale era di 9/12 = 0.75. Ora è di  9/10 = 0.9. L’aumento percentuale è la differenza di prezzo diviso il prezzo iniziale (da  convertire poi in percentuale), quindi  (0.9-0.75) / 0.75 = 0.15/0.75 = 1/5 = 0.20 à 20%"
+  },
+  {
+    "id": 68,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Calcolo algebrico. Aumentando di 1 un generico numero  tra i quattro, e facendone il prodotto di questo con i rimanenti inalterati, avrò che il  risultato è uguale al prodotto dei quattro numeri di partenza più il prodotto dei tre  inalterati. Se ad esempio incremento b avrò  a*(b+1)*c*d = (a*b*c*d) + (a*c*d)  Il minor numero possibile si ottiene quando i numeri inalterati sono quelli più piccoli,  di conseguenza l’unità andrebbe aggiunta al numero più grande, d nel nostro caso."
+  },
+  {
+    "id": 69,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sono coppie di anagrammi, escluso per parola-polare,  dove manca una “a” nella seconda parola, sostituita da una e."
+  },
+  {
+    "id": 70,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Se eguagliamo la somma della diagonale principale (da  alto-sinistra a basso-destra) con la prima riga, detta N la casella bianca si ha xxx+N+5  = xxx+8+9 da cui N = 12. Applichiamo la stessa strategia tra prima riga e prima colonna,  con M contenuto della casella in basso a sinistra: xxx+12+5 = xxx+6+M da cui M = 11.  Ora guardando la diagonale secondaria (da basso-sinistra a alto-destra) notiamo che  la somma è 24, perciò al posto di xxx va inserito 7. Per completezza abbiamo il 10 a  completare la seconda riga e il 4 a completare la terza."
+  },
+  {
+    "id": 71,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La contronominale inverte la direzione e nega le  proprietà, perciò: “se lo studente non ha la media superiore al 27, non accederà alla  borsa di studio”"
+  },
+  {
+    "id": 72,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Moto a velocità costante, e velocità media. La velocità  media è tutto lo spazio percorso diviso tutto il tempo trascorso. Lo spazio percorso è  L, lunghezza del tragitto. Il tempo trascorso è spazio diviso velocità, ossia (L/2)/36 +  (L/2)/12. Con un po' di algebra si ottiene L/18. La velocità media è quindi L/(L/18) =  18 Km/h  "
+  },
+  {
+    "id": 73,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La prima candela, bruciando 2/5 della sua durata, ha  bruciato 4 cm, per cui resta alta 6 cm. La seconda candela ha bruciato 2/3.5 della sua  durata. Quello che resta quindi è 1.5/3.5 della sua lunghezza iniziale, e deve essere  pari alla lunghezza rimanente della prima candela, cioè 6 cm. Quindi  (1.5/3.5)*L = 6   da cui"
+  },
+  {
+    "id": 74,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "L = 14  La risposta corretta è la [A]. Vediamo le possibilità: Il venerdì può cadere nei giorni 1 8-15-22-29 oppure 3-10-17-24-31. Tutte le altre possibilità prevedono 2 dispari e 3  pari, o 2 dispari e 2 pari. I due casi portano ad avere il primo giorno del mese  successivo di lunedì o di sabato."
+  },
+  {
+    "id": 75,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Detti M i fratelli di Tommaso e W le sorelle, si avrà che i  maschi della famiglia sono composti da Tommaso più i fratelli, quindi M = W+1.  Inoltre, le sorelle di una generica donna della famiglia (W-1) sono pari alla metà dei  fratelli quindi W-1 = (M+1)/2. Con un po' di algebra si arriva a W = 3 (e M = 4)."
+  },
+  {
+    "id": 76,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. I termini al primo membro sono sinonimi, quindi lieto è  l’unico sinonimo di sereno."
+  },
+  {
+    "id": 77,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Per definizione di condizione sufficiente, fare implica  capire. È impossibile che la premessa non porti al risultato."
+  },
+  {
+    "id": 78,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Se l’affermazione è falsa, il quantificatore diventa  universale e la frase seguente si nega. Quindi “In ogni corso di laurea” diventa “Esiste  almeno un corso di laurea”. Negare “almeno uno studente termina in anticipo” vuol  dire cambiare il quantificatore e negare il verbo quindi “tutti gli studenti non  terminano in anticipo”, che equivale a “nessuno studente termina in anticipo”. Il  risultato finale è “Esiste almeno un corso di laurea dove nessuno studente termina in  anticipo”"
+  },
+  {
+    "id": 79,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Laura è onesta in quanto sincera. Molti medici sono  sinceri non dà informazioni su Laura.   "
+  },
+  {
+    "id": 80,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La velocità = spazio/tempo per i 5 treni è A = 119/120, B  = 171/172, C = 89/90, D = 99/100, E = 179/180. È comodo scrivere gli stessi valori in  questo modo: A = 1 – 1/120, B = 1 – 1/172, C = 1 – 1/90, D = 1 – 1/100, E = 1 – 1/180.  La frazione più piccola è 1/180, per cui E è la velocità maggiore."
+  },
+  {
+    "id": 81,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Visualizzare, anche con un eventuale schemino, i tragitti  per vedere quale dei proposti garantisce l’uso sia esclusivo."
+  },
+  {
+    "id": 82,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. I soggetti a rischio sono nell’intersezione fra fumatori e  bevitori. Un soggetto non a rischio potrebbe fumare ma non bere e viceversa. Luca  potrebbe fumare ma non bere, e restare un soggetto non a rischio, per cui la 1 è falsa,  così come la 3 è falsa perché i fumatori non bevitori non sono a rischio. Solo la 2 è  vera."
+  },
+  {
+    "id": 83,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Trovare il mcm più piccolo tra le tre coppie di componenti.  Non hanno fattori comuni per cui il loro mcm è semplicemente il prodotto, e il  prodotto più piccolo è tra 7 e 9, ossia 63 mesi."
+  },
+  {
+    "id": 84,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Equazioni a una incognita. Siano N le capsule normali,  possiamo scrivere:  (1/5)*20 + (0.7) *N = (20+N)/2  Con un po' di algebra si ottiene N = 30 e in tutto quindi saranno 50."
+  },
+  {
+    "id": 85,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Per ottenere la media vanno contati tutti i cellulari, quindi  la somma del numero di cellulari moltiplicati per le famiglie e poi diviso per 100 per  ottenere la media.  (1*5 + 2*20 + 3*40 + 4*25 + 5*5)/100 = 2.9"
+  },
+  {
+    "id": 86,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Colorando le facce esterne, quello che resta non colorato  è una figura dove ogni dimensione viene diminuita della quantità 2 (gli estremi da  scartare perché colorati). Nel nostro caso il cubo non colorato avrà lato 2, e di  conseguenza volume 8. Le facce colorate, quindi, saranno 64 - 8 = 56.  "
+  },
+  {
+    "id": 87,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Se franco ha speso X a giugno 2021, l’anno seguente ha  speso X + X*125/100 ossia 225/100*X. Il rapporto è quindi 225/100, semplificando  9/4"
+  },
+  {
+    "id": 88,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sia X la strada per arrivare alla trattoria, si ha che   30 (km fatti) + X/4 (quello che manca) = X (posizione della trattoria)  da cui X = 40. La trattoria è esattamente a metà quindi la strada totale è 80 Km."
+  },
+  {
+    "id": 89,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Basta scartare le opzioni che vengono escluse da ogni  richiesta, prendendone due alla volta. -  Le richieste 1 e 2 salvano solamente la cifra 7 - -  Le richieste 1 e 3 salva le cifre 1,3 e 5  Le richieste 2 e 3 si sovrappongono sulla cifra 6  In tutto sono 5 cifre."
+  },
+  {
+    "id": 90,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Bisogna costruire la successione passo passo che è fatta  così:  3 (+5) 8 (/2) 4 (/2) 2 (/2) 1 (+5) 6 (/2) 3 (+5) 8…  Si ricava che la successione si ripete identica dopo 6 passi. Il blocco ripetuto quindi  termina con il 18° passo, quindi alla ventesima posizione avremo il secondo elemento  del blocco che è 8"
+  },
+  {
+    "id": 91,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Percentuali. 20 cubi sono rossi, e sono il 40% dei cubi. I  cubi blu sono quindi il 60% del totale dei cubi, e quindi 30. A loro volta, i cubi blu sono  il 20% dei solidi blu. Ciò implica che l’80% dei solidi blu è una sfera ossia (30/20)*80 =  120"
+  },
+  {
+    "id": 92,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La prima figura va divisa in 8 quadrati (2*4). La seconda  in 8 triangoli (formati dividendo il quadrato in 4 e poi sulle diagonali). Contando la  parte nera della prima figura (corrispondente a 4 metà di quadratino) e la parte bianca  della seconda (5 triangoli) si ha   1/4 + 5/8 = 7/8"
+  },
+  {
+    "id": 93,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Invertendo l’espressione  P_ieri = (125/100)*P_oggi   si ha  P_oggi=(100/125)*P_ieri.   100/125 =x/100 da cui x = 80. quindi il 20% in meno."
+  },
+  {
+    "id": 94,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Basta contare le partite: 64 persone fanno 32 partite; i 32  vincitori faranno altre 16 partite; i 16 vincitori faranno altre 8 partite e così via...  32 + 16 + 8 + 4 + 2 +1 = 63."
+  },
+  {
+    "id": 95,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Equazioni di primo grado. La proporzionalità impone che  gli infermieri sono pari a  Infermieri : medici = 24 : 18.   Quindi gli infermieri saranno i 24/18 dei medici. Chiamando X i medici avremo:  X + X*24/18 = X*7/3 = 14    da cui  X = 6."
+  },
+  {
+    "id": 96,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ci sono 3 intervalli diversi che si ripetono. La sequenza,  quindi sarà uguale ogni 60 giorni (mcm dei tre intervalli), giorno conclusivo in cui si  sovrappongono tutti e tre gli allenamenti. Se oggi si è allenato nel nuoto e nella corsa  vuole dire che il giorno è multiplo di 3 e 5 ossia multiplo di 15. Il giorno precedente  deve essere stato multiplo di 4, quindi stiamo parlando del giorno 45, il cui precedente  è 44 = 4*11. Il giorno richiesto dalla domanda, 60°, sarà quindi fra 15 giorni."
+  },
+  {
+    "id": 97,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sostituire il simbolo con la cifra e una variabile. Otteniamo  2*x = 10*y, con x e y cifre, quindi limitate da 0 a 9. L’unico risultato è x = 5"
+  },
+  {
+    "id": 98,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Riconoscimento di figure tridimensionali. Il solido 1 è più  basso, il solido 4 non ho la separazione tra il quadrato e il rettandolo sovrastante. 2 e  3 sono compatibili.   "
+  },
+  {
+    "id": 99,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ricostruire la discendenza generazione per generazione.   • Gen 1) Figlio e figlia dei Bianchi  • Gen 2) Due maschi (M) dal figlio + 1 maschio e 1 femmina dalla figlia = 3 M + 1  F  • Gen 3, (pronipoti) 6 M dai 3 nipoti maschi + 1 M e 1 F dalle 2 femmine  In totale 7 pronipoti maschi"
+  },
+  {
+    "id": 100,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Somma vettoriale. Si può ricostruire il percorso con un  disegno. L’appartamento si trova 2 km lungo la direzione ovest e 2 Km lungo quella  nord, quindi esattamente a nord-ovest. Quindi l’ufficio è a sud-est rispetto  all’appartamento."
+  },
+  {
+    "id": 101,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Il pendolare, all’andata, sarà rivolto nella direzione del treno, a nord, e occuperà il  posto che troverà alla sua sinistra, quindi in direzione ovest. Al contrario, al ritorno,  mentre il treno andrà a sud lui si siederà comunque in direzione nord, occupando il  finestrino alla sua destra, quindi nella direzione est. La risposta corretta è la [A]."
+  },
+  {
+    "id": 102,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Per negare la frase è sufficiente che almeno un filosofo non sia greco; quindi, la  risposta corretta è la [A]."
+  },
+  {
+    "id": 103,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La madre del padre della signora equivale alla nonna della signora. Quindi la madre  di Paolo e il padre della signora sono fratello e sorella e, di conseguenza, Paolo e la  signora saranno cugini. La riposta corretta è la [A]."
+  },
+  {
+    "id": 104,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La Sacra Sindone di trova a Torino come il Colosseo si  trova a Roma."
+  },
+  {
+    "id": 105,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Le due proporzioni:  Crostate : pasticcini = 3 : 4  Biscotti : crostate = 5 : 3  suggeriscono che in pasticceria le crostate, i pasticcini e i biscotti sono in  proporzione 3:4:5. Se ci sono in tutto 36 pasticcini, dividiamo 36 per 4, ottenendo  così il fattore 9 che, moltiplicato rispettivamente per 3 e per 5 ci fornirà il numero  delle crostate e dei biscotti. Pertanto, in pasticceria ci saranno 36 pasticcini, 27 (9x3)  crostate e 45 (9x5) biscotti, per un totale di 36+27+45= 108 dolci. La risposta  corretta è la [A]."
+  },
+  {
+    "id": 106,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "L'unica affermazione compatibile con la condizione posta è l’alternativa [A], che  quindi è la risposta corretta. Infatti, prendo l’automobile solo nel caso in cui c’è lo  sciopero dei treni e, viceversa, nel caso in cui ci sia lo sciopero dei treni, sicuramente  prenderò l’automobile.   "
+  },
+  {
+    "id": 107,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Se il pullman viaggia a velocità costante, i 4/5 del tragitto li avrà percorsi nei 4/5 del  tempo totale. Se i 4/5 corrispondono a 36 minuti, allora il tempo totale sarà     𝑒𝑚𝑝𝑜 =36×5  4  =45 𝑚𝑖𝑛  Arriverà a destinazione tra 45 − 36 = 9 𝑚𝑖𝑛. La risposta corretta è la [A]."
+  },
+  {
+    "id": 108,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La gazzella si muove a 40 km/h (pari al 50% di 80 km/h). Percorrerà, quindi, 40 km in  60 minuti, ovvero 4 km in 6 minuti. Allora in 3 minuti percorrerà 2 km. La riposta  corretta è la [A]."
+  },
+  {
+    "id": 109,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La frase è logicamente equivalente a dire che “tutti possono imparare a sciare”, o  anche “non esiste nessuna persona che non possa imparare a sciare”. L’unica  affermazione compatibile è dunque l’alternativa [A], che è la risposta corretta."
+  },
+  {
+    "id": 110,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La frase è logicamente equivalente a dire “Se vuoi passare il test allora devi  necessariamente studiare”. Le alternative B e D sono errate perché non si può  passare il test senza aver studiato. Le alternative C e E sono sbagliate perché  studiare è una condizione necessaria ma non sufficiente (può non bastare da sola!)  per passare il test; quindi, anche se non hai superato il test non è detto che tu non  abbia comunque studiato e, al contrario, se hai studiato non è detto che questo  basti per passare il test.  L’unica affermazione che si può affermare è che tutti quelli che hanno superato il  test hanno sicuramente studiato. La riposta corretta è dunque la [A]."
+  },
+  {
+    "id": 111,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La relazione logica che lega i due termini al primo membro è quella tra fattore  scatenante e processo innescato. Per cui, l’unica alternativa che rispetta il legame è  la [A]: un virus può scatenare una pandemia così come una scintilla può scatenare  un incendio."
+  },
+  {
+    "id": 112,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Dalla C1 si deduce che l’essere iscritti al circolo è una condizione necessaria per  accedere ai locali. Allo stesso tempo, dalla C2 si conclude che tale condizione, da  sola, non è sufficiente (infatti è necessario anche essere in regola con i versamenti).  La risposta corretta è la [A].  "
+  },
+  {
+    "id": 113,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "L’affermazione “Non tutti i soggetti che soffrono di ipoacusia portano un  apparecchio acustico” equivale a dire che c’è qualche soggetto che, pur soffrendo di  ipoacusia, non porta l’apparecchio acustico. La risposta corretta è la [A]."
+  },
+  {
+    "id": 114,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Il procedimento illustrato è un classico procedimento induttivo (risposta corretta la  [A]). Infatti, questo metodo porta ad una affermazione generale a partire  dall'osservazione di alcuni fatti particolari."
+  },
+  {
+    "id": 115,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La relazione logica che lega i due termini al secondo membro è che siano uno  l’opposto dell’altro (devoto è il contrario di infedele). L’unico termine tra le  alternative opposto a “propenso” è “ostile” e quindi la [A] è la risposta corretta."
+  },
+  {
+    "id": 116,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Il numero dei responsabili per ciascun laboratorio è esattamente due, mentre i  ricercatori potrebbero essere anche più di tre. Se fossero esattamente tre per  laboratorio, allora il rapporto tra responsabili e ricercatori sarebbe esattamente due  terzi, che è la massima frazione ottenibile, ma non necessariamente raggiungeremo  questo rapporto, Quindi il rapporto è al massimo due terzi e la risposta corretta è la  [A]."
+  },
+  {
+    "id": 117,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Se Marta ha lavorato la metà del tempo di Irene vuol dire che Irene ha lavorato il  doppio di Marta, così come Giulia. Quindi Giulia e Irene hanno lavorato lo stesso  tempo. Francesca, avendo lavorato il doppio di Giulia, è quella che sicuramente ha  lavorato più di tutte; quindi, la risposta corretta è la [A]."
+  },
+  {
+    "id": 118,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La probabilità di estrarre un 8 dalle 40 carte da gioco italiane è 4/40 (vi sono quattro  8, uno per ciascun seme, su quaranta carte totali del mazzo). 4/40 equivale a 1/10 è  cioè al 10% di probabilità. La risposta corretta è la [A]."
+  },
+  {
+    "id": 119,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Se Francesca e Maria insieme confezionano tre abiti in un giorno e Maria impiega la  metà del tempo di Francesca, vuol dire che in un giorno Maria confeziona due abiti e  Francesca uno. Pertanto, in cinque giorni, Maria confezionerà 10 abiti in totale. La  risposta corretta è la [A].  "
+  },
+  {
+    "id": 120,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "L’alternativa corretta che completa la proporzione è la [A]: tra i metalli vi è l’oro così  come tra gli insetti vi sono in particolare le farfalle."
+  },
+  {
+    "id": 121,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Leggendo con attenzione il testo capiamo l’ordine dei quattro uomini, dal più lento  al più veloce è: Teodoro, Luigi, Mario e Carlo. Il più veloce è quindi Carlo e la risposta  corretta è la [A]."
+  },
+  {
+    "id": 122,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Sicuramente D e E potranno partecipare all’evento, possedendo l’invito. Anche  l’architetto senza invito (B) e il migliore amico dell’organizzatore (C) potrà  partecipare all’evento. L’unico che NON è certo possa partecipare è il  commercialista dell’organizzatore senza invito (perché non è un architetto e non  sappiamo se sia o meno un amico dell’organizzatore). La risposta corretta è la [A]."
+  },
+  {
+    "id": 123,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Le alternative B e C sono errate perché l’automobile, in entrambe, è parcheggiata  dopo il monovolume. Allo stesso modo, l’alternativa D è sbagliata perché lo scooter  è parcheggiato prima dell’automobile e l’alternativa E è sbagliata perché lo scooter è  parcheggiato prima del monovolume. L’unica che rispetta le condizioni poste nel  testo è l’alternativa [A], che è la risposta corretta."
+  },
+  {
+    "id": 124,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La frase nel testo è logicamente equivalente a “Non è impossibile che l’autore del  dipinto sia Caravaggio.” L’alternativa corretta è la [A]. (Da notare che le alternative B  e C sono logicamente identiche, e pertanto entrambe sbagliate e lo stesso vale per  le alternative D e E)."
+  },
+  {
+    "id": 125,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La relazione logica che lega i due termini al primo membro è quella tra causa e  effetto. Per cui, l’unica alternativa che rispetta il legame è la [A]: da un trauma può  emergere un ematoma così come da una scintilla può scaturire un’esplosione."
+  },
+  {
+    "id": 126,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La relazione logica che lega i termini della proporzione è quella tra fiume e  collocazione geografica: Il Gange è un fiume del continente asiatico così come il  Zambesi è un fiume del continente africano. L'alternativa corretta è la [A].  "
+  },
+  {
+    "id": 127,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Dal testo si evince che Federico è più basso di Marco e Edoardo, che sono alti uguali,  e che Marco è più basso di Stefano. Dunque, Stefano sarà più alto di Federico. La  risposta corretta è la [A]."
+  },
+  {
+    "id": 128,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Infatti, ad A bisogna sottrarre i 42 metri quadrati in più,     −42\t, per ottenere (=) la metà della superficie complessiva tra B e C, (𝐵 + 𝐶)/2."
+  },
+  {
+    "id": 129,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Partendo dalle alternative, l’unica che crea la stessa relazione logica ai due membri  della proporzione è la [A]: Monet è stato un noto pittore così come Fermi è stato un  famoso fisico."
+  },
+  {
+    "id": 130,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Un bambino di 5 anni ha bisogno di una dose di 100 mg/kg. Se il suo peso è di 18 kg  vorrà dire che necessiterà di 1800 mg giornalieri. Somministrando questa dose in  misurini da 150 mg, serviranno in totale 1800:150 = 12\tmisurini al giorno. Quindi  ogni 8 ore il bambino prenderà 4 misurini, e la risposta corretta è la [A]."
+  },
+  {
+    "id": 131,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Stefano fa parte delle persone che odiano la montagna, e tutte le persone che  odiano la montagna sono anche ipocondriache; pertanto, Stefano sicuramente è  ipocondriaco. L’alternativa corretta è la [A]."
+  },
+  {
+    "id": 132,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "L’alternativa [A] è la risposta corretta poiché non è deducibile dal testo. Infatti, solo  se le camere si trovino nell’impossibilità di funzionare, il Presidente della Repubblica  e i Presidenti possono sciogliere le camere. Ma in generale l’affermazione è falsa."
+  },
+  {
+    "id": 133,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Le piastrelle utilizzate da Claude, ricoprono un’area di 6,5 × 7,5 = 48,75 𝑐𝑚, più  del doppio dell’area delle piastrelle utilizzate da Aureliano (8 × 3 = 24 𝑐𝑚).  Quindi, con due piastrelle, spendendo 3,00 euro, Aureliano coprirà un’area inferiore  a quella di un’unica piastrella di Claude, che spenderà appena 1,60 euro. La risposta  corretta è la [A].  "
+  },
+  {
+    "id": 134,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Nel primo mese la macchina passerà da 5000 euro a 4500 euro (lo sconto del 10% di  5000 sarà infatti pari a 500 euro). Nel secondo mese, il presso di 4500 euro subirà un  nuovo sconto del 10%, arrivando così a 4050 euro (il 10% di 4500 è 450).  La risposta corretta è la [A]."
+  },
+  {
+    "id": 135,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "È sufficiente sottrarre al costo dell’appartamento i 2/5 dello stesso:  90.000 − 2  5  La risposta corretta è la [A]."
+  },
+  {
+    "id": 136,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "90.000 = 90.000 − 36.000 = 54.000  Vengono prese in considerazione solo le lettere dispari della parola; quindi, la  risposta corretta è la [A]."
+  },
+  {
+    "id": 137,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Infatti, dall’implicazione logica che tutti gli innamorati  sono felici, non si può affermare l’inverso, cioè che tutte le persone felici siano  necessariamente innamorate."
+  },
+  {
+    "id": 138,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Supponiamo che il prezzo di partenza sia 100. Poiché l’8% di 100 è 8, scontando 100  dell’8% otteniamo il nuovo valore di 92. Per ritornare ora al prezzo originale  dobbiamo applicare a 92 una percentuale maggiore rispetto all’8% (perché l’8% di  92 è inferiore all’8% di 100). Quindi sicuramente le alternative C ed E sono da  scartare. Anche l’alternativa B non è corretta, perché il problema non dipende dal  prezzo di partenza scelto. Rimangono le alternative A e la D. il 9% di 92 è   92 × 9  100  =828  100  =8,28  che, sommato a 92 da circa 100, cioè il valore di partenza. La risposta corretta è la  [A]."
+  },
+  {
+    "id": 139,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Dal testo si deduce che un merluzzo corrisponde a tre branzini e un branzino  corrisponde al peso di tre ostriche. L'unica combinazione bilanciata è l’alternativa  [A] (risposta corretta): infatti 6 ostriche corrispondono a 2 branzini che, uniti all’altro  che si trova sul piatto, equivalgono a 3 branzini a sinistra. I 3 branzini vengono  perfettamente bilanciati dal merluzzo a destra.  "
+  },
+  {
+    "id": 140,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Nel paese considerato, i votanti sono stati il 69%. Di questi, il 21% ha votato il partito  vincitore. Quindi la percentuale degli aventi diritto al voto che si espressa in favore  del partito vincitore è il 21% del 69%, cioè:   21  100  La risposta corretta è la [A]."
+  },
+  {
+    "id": 141,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "× 69  100  = 1449  10.000  =0,1449 = 14,49%  Per negare che “a tutti gli amanti della musica rock piacciono sia i Queen sia i Led  Zeppelin” è sufficiente che vi sia qualcuno, amante della musica rock, a cui non  piaccia o uno o l’altro gruppo.  La risposta corretta è la [A]."
+  },
+  {
+    "id": 142,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Il quesito si presenta molto lungo e con molti dati da analizzare. Ma, leggendo la  richiesta finale, ci si rende conto che le superfici in metri quadri indicate e i posti in  galleria dei tre cinema, sono superflui e non necessari per fornire la risposta  corretta. Le uniche informazioni utili sono le seguenti:  • I posti in platea del cinema Cristallo sono passati da 80 a 96;  • I posti in platea del cinema Odeon sono passati da 70 (7/8 di 80, nel testo) a  77;  • I posti in platea del cinema Centro sono passati da 100 (5/4 di 80, nel testo) a  115.  Calcolando le tre variazioni percentuali con la formula     𝑢𝑜𝑣𝑜 𝑑𝑎𝑡𝑜 −𝑣𝑒𝑐𝑐ℎ𝑖𝑜 𝑑𝑎𝑡𝑜  𝑣𝑒𝑐𝑐ℎ𝑖𝑜 𝑑𝑎𝑡𝑜  si ottiene:   ×100%  • I posti in platea del Cristallo sono aumentati del  • I posti in platea del Odeon sono aumentati del  ×100% =20%;  ×100% =10%;  • I posti in platea del Centro sono aumentati del  La risposta corretta è allora la [A].  ×100% =15%.   "
+  },
+  {
+    "id": 143,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Si osservi subito che 1 mezza corona = 2 scellini e 6 pence = 24 pence + 6 pence = 30  pence.   Ora: 1 sterlina = 20 scellini, quindi 3 sterline = 60 scellini = 30 scellini + 30 scellini. Ma  1 scellino= 12 pence quindi 30 scellini = 360 pence, quindi sostituendo otteniamo  che 3 sterline= 30 scellini + 360 pence = 30 scellini + 180 pence + 180 pence.  Se 30 pence = 1 mezza corona, allora 180 pence = 6 mezze corone. Quindi otteniamo  l’equivalenza 3 sterline = 30 scellini + 180 pence + 6 mezze corone.  La risposta corretta è la [A]."
+  },
+  {
+    "id": 144,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "All’insieme totale dei radiocronisti appartengono, in particolare, i radiocronisti  svedesi e i radiocronisti seri. Quindi le alternative si restringono alla A (diagramma 1)  o la B (diagramma 3). Ora, tra i radiocronisti svedesi ve ne possono essere alcuni  seri, ma non necessariamente tutti lo sono e, al contrario, non tutti i radiocronisti  seri saranno necessariamente svedesi. Quindi i due insiemi potrebbero avere  un’intersezione non vuota ma non saranno uno contenuto nell’altro. La risposta  corretta è l’alternativa [A]."
+  },
+  {
+    "id": 145,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Partiamo dalle informazioni con meno combinazioni possibili.   • Pentagono e cerchio possono essere solo posizionati nei punti B e C (non  necessariamente in quest’ordine), poiché sono gli unici a distanza 8 km sulla  mappa;  • Cerchio ed esagono possono essere posizionati solo in due combinazioni  possibili (le uniche che distano 14 km in totale): se il cerchio di trova in B  allora l’esagono di troverà in G; se il cerchio si trova in C allora l’esagono di  troverà in E.   • Rombo e dodecagono possono essere posizionati solo nei punti E e A (non  necessariamente in quest’ordine), poiché sono gli unici a distanza 5 km sulla  mappa;  • Dodecagono e triangolo possono essere posizionati in tre combinazioni  possibili (quelle che distano 10 km in totale): E e D, D e G oppure E e   B.  Unendo le ultime due informazioni si deduce che il dodecagono deve trovarsi  necessariamente in E (se si trovasse in A non potrebbe rispettare la distanza di 10  km con il triangolo).   Di conseguenza, l’esagono non potendo occupare la posizione E, si troverà nella  posizione G e la risposta corretta sarà l’alternativa [A]."
+  },
+  {
+    "id": 146,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Tutte le zone nere diventano bianche e viceversa."
+  },
+  {
+    "id": 147,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "È sufficiente sommare i puntini e le linee dei quattro numeri 1, 2, 3 e 9: otteniamo 7  punti e 13 linee. La risposta corretta è la [A]."
+  },
+  {
+    "id": 148,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Tutti i numeri all’interno dei triangoli hanno come decine 1, 2 o 3 e come unità 2, 3 o  4, con un totale di 69, ottenuto dalla somma dei tre numeri. I numeri con la decina 1  si trovano tutti nel vertice A, quelli con la decina 2 occupano tutti la posizione B e i  numeri con la decina 3 occupano tutti la posizione C, ad eccezione della figura 4, che  ha i numeri nei vertici A e B invertiti. Pertanto, la risposta corretta è la [A]."
+  },
+  {
+    "id": 149,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Nelle posizioni F e G del triangolo in basso potranno esserci solo le combinazioni 4-3  oppure 5-2, poiché mancano sette unità da sommare a 8 per arrivare a 15 (la coppia  6-1 non è possibile perché la cifra 6 è già posizionata nello schema).   Allo stesso modo, nel triangolo centrale, sui lati F e D possono esserci solo le  combinazioni 5-4 oppure 7-2 per arrivare a somme 15 con il 6 già posizionato (8-1 e  6-3 non sono possibili).   Se ne deduce che sul lato F necessariamente ci sarà un 5 o un 4, unici numeri che  vanno bene per entrambi i triangoli coinvolti.   Proviamo a posizionare 4 su F. Di conseguenza, il lato G sarà 3 e il lato D sarà 5.   Proseguendo sul triangolo DBE, dove D è 5, nelle posizioni B ed E potrà esserci solo  la combinazione 1-9 (8-2, 7-3 e 6-4 hanno cifre già posizionate su altri lati).   Quindi, tra le alternative, l’unico numero che può essere nel cerchio B è 9.  La  risposta corretta è la [A]."
+  },
+  {
+    "id": 150,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è 12 kg, alternativa [A]: infatti la metà di un cocomero pesa 6 kg  e, quindi un cocomero peserà come 6 kg + mezzo cocomero."
+  },
+  {
+    "id": 151,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "460 euro corrisponde al 25% del prezzo iniziale del televisore, avendo subito uno  sconto del 75%. Quindi il prezzo iniziale si otterrà con una semplice proporzione   460 : 25 = 𝑥 : 100\t Risolvendo otterremo x = 460 x 100 : 25 = 1840 euro. La risposta corretta è la [A].  (Anche senza impostare la proporzione, si può osservare che il 25% corrisponde a ¼  del prezzo iniziale e così ottenere la soluzione moltiplicando 460 per 4)."
+  },
+  {
+    "id": 152,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "oggi fossero 8, e denotando con x e y i due esami da sostenere, dalla media  aritmetica troviamo:  (27 ×8) + 𝑥+𝑦  10  =25,9  Risolvendo si ricava che 𝑥 + 𝑦 = 43\te, pertanto, i due voti potrebbero essere, ad  esempio 20 e 23 o anche 19 e 24 e così via...   Con lo stesso ragionamento, le altre alternative non portano a possibili numeri interi  compresi tra 18 e 30. L’unica alternativa possibile è dunque la [A]."
+  },
+  {
+    "id": 153,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Mariangela in un anno pagava 80 x 12= 960 euro, mentre con la nuova fatturazione  pagherà 96 x 13 = 1248 euro (28 giorni corrispondono a 4 settimane e in un anno vi  sono 52 settimane, quindi 13 blocchi da 4 settimane).  Allora la variazione percentuale su base annua sarà:  1248 −960  960  La risposta corretta è la [A]."
+  },
+  {
+    "id": 154,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "×100% =30%  Se la frutta, il netto, rappresenta il 96% del peso lordo, allora la cassetta di frutta  corrisponderà di conseguenza al 4% del peso lordo. Quindi il 4% del peso totale è di  400 g. Dalla proporzione   400 : 4 = 𝑥 : 100\t  si ottiene che x = 10.000 grammi. La risposta corretta è la [A].  "
+  },
+  {
+    "id": 155,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Dividendo il quadrato in 9 quadratini e colorando il perimetro, solo quello centrale  non sarà intaccato dal colore rosso.   La risposta corretta è la [A]."
+  },
+  {
+    "id": 156,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "L’implicazione “se e solo se” sottintende una condizione necessaria e sufficiente.  Pertanto, le alternative B e C sono errate. Per lo stesso motivo, non può accadere  che GND sia vera senza che lo sia GUD e viceversa. Quindi anche la D e E sono  sbagliate. La risposta corretta è la [A]: se GUD è falsa, allora anche GND deve  esserlo."
+  },
+  {
+    "id": 157,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "L'unica affermazione non necessariamente vera è la [A], che è l’alternativa corretta.  Infatti, Sapere che Santi è un vivaista e che quindi ha più di 23 anni, non presuppone  necessariamente che si trovi nella stanza."
+  },
+  {
+    "id": 158,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Per negare che “tutti i turisti che visitano l'Italia si recano sia a Roma sia a Venezia” è  sufficiente che vi sia qualche turista, che visiti l’Italia, e che non si rechi  necessariamente in una località tra Roma o Venezia.  La risposta corretta è la [A]."
+  },
+  {
+    "id": 159,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Sono tutte città della Spagna, ad eccezione di Coimbra, che è una città del  Portogallo. La risposta corretta è la [A]."
+  },
+  {
+    "id": 160,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Castel Sant’Angelo si trova a Roma così come la Basilica di San Marco di trova a  Venezia. La risposta corretta è la [A].  "
+  },
+  {
+    "id": 161,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La relazione logica che lega i termini della proporzione al secondo membro è che  uno è il contrario dell’altro. Il contrario di arrotondato è aguzzo, quindi la risposta  corretta è la [A]."
+  },
+  {
+    "id": 162,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "L’alternativa che completa la proporzione è la [A]. Infatti, dilazionare e procrastinare  sono due sinonimi così come lo sono cancellare ed espungere."
+  },
+  {
+    "id": 163,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "I tre insieme non hanno alcun termine in comune, pertanto il diagramma corretto è  il 6, che corrisponde all’alternativa [A]."
+  },
+  {
+    "id": 164,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "I libri e le risorse digitali hanno un’intersezione comune (tra le risorse digitali vi sono  anche gli ebook e, viceversa, i libri possono essere anche in versione digitale).  Invece, i tablet sono dei dispositivi elettronici, pertanto né libri né risorse digitali. Le  relazioni tra queste tre insiemi sono rappresentabili dai diagrammi 1 o 6. Ora,  l’Ebook di Andrea è sia un libro che una risorsa digitale, quindi si troverà  nell’intersezione tra questi due insiemi. La risposta corretta è il diagramma 1,  alternativa [A]."
+  },
+  {
+    "id": 165,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Dalla sottrazione dell’ultima colonna, si evince che la maschera vale 0 (perché è  ottenuta dalla sottrazione di due simboli uguali).   Dall’ultima riga, allora abbiamo che necessariamente il quadrato corrisponde a 5  (unico numero che rispecchia 50 x 5 = 250, con le posizioni corrispondenti di tutti i 5  nella formula) e, quindi, l’orologio corrisponde a 2.  Prendendo ora in esame la prima riga otteniamo che (...)50 - 2(...)5 = 505.  Risolvendo l’operazione in colonna capiamo che il cocktail corrisponde a 6 e la  barchetta a 7.   Infine, da 750: (...)5 = 50 otteniamo che il fiocco di neve è necessariamente 1. La  risposta corretta è la [A]."
+  },
+  {
+    "id": 166,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Infatti, il primo anno il pacchetto azionario frutta 25.000  euro, arrivando a 75.000 euro. Nel secondo anno, il 10% di 75.000 corrisponde a  7.500, arrivando così a 82.500 euro. Infine, il terzo anno, poiché il 20% di 82.500 è  16.500, raggiungendo i 99.000 euro.   "
+  },
+  {
+    "id": 167,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Il piatto preferito di Claudio è sicuramente la meringata, poiché vegetariano. Bianca  e Alice, non mangiano carne, preferiranno calamari fritti o orata al sale (non  necessariamente in quest’ordine) e Davide prende il pollo al curry. Si deduce che  Isabella preferisce la trippa in umido. La risposta corretta è la [A]."
+  },
+  {
+    "id": 168,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "• Dopo la regola 1 la sequenza diventa WCGMYR;   • Dopo la regola 2 la sequenza diventa WCGMRY  • Dopo la regola 3 la sequenza diventa YRMGCW  • Dopo la regola 4 la sequenza diventa YRGCW  La risposta corretta è la [A]."
+  },
+  {
+    "id": 169,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La figura da scartare è la figura 4 perché è l’unica che ha  il cerchio color bianco e non grigio."
+  },
+  {
+    "id": 170,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "risposta corretta è la [A]. È sufficiente contare il numero del simbolo Ý all’interno  della tabella."
+  },
+  {
+    "id": 171,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "780 euro rappresentano il 25% del prezzo di listino del televisore. Quindi:  780 : 25 = x : 100  da cui x = 780 x 100/25 = 3120 euro. La risposta corretta è la [A]."
+  },
+  {
+    "id": 172,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Partendo da 80.000 euro, il primo anno Federico avrà un rendimento di 32.000 euro  (il 40% di 80.000 = 40/100 x 80.000), arrivando così a 112.000. Allo stesso modo, il  secondo anno avrà un incremento del 40% di 112.000, ovvero 40/100 x 112.000 =  44.800 euro. La risposta corretta è la [A]."
+  },
+  {
+    "id": 173,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La riposta corretta è la [A]. Di ogni parola vengono considerate solo le lettere di  posto pari. Quindi “addimostreremo” diventerà “dioteeo”.  "
+  },
+  {
+    "id": 174,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Il testo afferma che in Canada, dove le ore dedicate alla  lettura sono maggiori, gli studenti sono migliori in lettura rispetto alla Nuova  Zelanda. Una frase che rinforza la tesi del testo è sapere che in Australia, dopo aver  aumentato le ore dedicate alla lettura, gli studenti hanno avuto miglioramenti  evidenti, arrivando al quarto posto in classifica. Le restanti alternative non  rafforzano l’argomentazione del testo."
+  },
+  {
+    "id": 175,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Un bambino di 8 anni ha bisogno di una dose di 75 mg/kg. Se il suo peso è di 30 kg  vorrà dire che necessiterà di 75 x 30 = 2250 mg giornalieri. Somministrando questa  dose in misurini da 150 mg, serviranno in totale 2250 : 150 = 15 misurini al giorno.  Quindi ogni 8 ore il bambino prenderà 5 misurini, e la risposta corretta è la [A]."
+  },
+  {
+    "id": 176,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Affermare che tutti gli Yankee sono Zulu equivale a dire  che non esiste nessuno Yankee che non sia anche Zulu, che è l’alternativa [A]."
+  },
+  {
+    "id": 177,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "I pezzetti di 16 cm e 15 cm rappresentano le lunghezze delle due circonferenze che  compongono gli anelli dei due aquiloni. Se le code devono avere lo stesso numero di  anelli, vorrà dire che per ogni 16 cm di stoffa utilizzati per il primo, occorreranno  altrettanti 15 cm di stoffa per il secondo, per un totale di 31 cm per i due anelli.  Basta quindi dividere 2,80 m= 280 cm per 31 cm, ottenendo 9 con il resto di 1.  Quindi i due aquiloni avranno due code lunghe 9 anelli ciascuno e dalla carta  avanzerà 1 cm. La risposta corretta è la [A]."
+  },
+  {
+    "id": 178,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La riposta corretta è la [A]. È sufficiente trovare tra le alternative proposte quella in  cui la somma totale degli studenti suddivisi in singole sessioni valga 47."
+  },
+  {
+    "id": 179,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Se ieri a quest’ora erano le 19:15 di giovedì, vuol dire che ora sono le 19:15 di  venerdì. Partendo da questo orario e andando avanti di 13 ore e 30 minuti si  ottengono le 8:45 di sabato. La risposta corretta è la [A]."
+  },
+  {
+    "id": 180,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Se i ciechi fossero autisti allora lo sarebbe anche Alberto, perché facente parte della  categoria dei cechi. Quindi la risposta corretta è la [A].  "
+  },
+  {
+    "id": 181,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Se tutti i filadelfiesi sono presuntuosi e alcuni sono  premurosi, vorrà dire che ci sono alcuni filadelfiesi che sono contemporaneamente  premurosi e presuntuosi. Quindi qualche premuroso sarà presuntuoso."
+  },
+  {
+    "id": 182,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Conviene analizzare le alternative. Se le scatole del piano inferiore fossero 16, allora  dalla frase “se Mattia sposta quattro scatole sulla mensola sopra, il numero di  scatole sulle due mensole diventa lo stesso”, si deduce che le scatole del piano di  sopra devono essere 8 (8+4=12 e 16-4=12). Questi numeri rispecchiano anche la  seconda frase. Infatti, togliendo 8 scatole dal piano superiore otteniamo 4 scatole  sopra e aggiungendole al piano inferiore ne troviamo 20 sotto e i due numeri sono  uno il quintuplo dell’altro. Quindi la risposta corretta è la [A].   (In alternativa, si può impostare un sistema di due equazioni in due incognite x =  scatole inferiori y = scatole superiori, del tipo x – 4 = y + 4   e   x + 4 = 5 (y - 4) )."
+  },
+  {
+    "id": 183,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Si tratta di una condizione necessaria e sufficiente (se e solo se). Quindi è vera se e  solo se entrambe ETA e FB sono vere o se entrambe sono false  contemporaneamente. La risposta corretta è la [A]."
+  },
+  {
+    "id": 184,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "VY è sufficiente per TR, quindi significa che l’implicazione logica è del tipo “se VY  allora TR”. Al contrario se SU è necessaria per TR, allora l’implicazione logica è del  tipo “se TR allora SU”. Dalle implicazioni logiche possiamo dedurre solo i negati dei  loro inversi: dalla prima possiamo dedurre che “se non TR allora non VY” e dalla  seconda “Se non SU allora non TR”. La risposta corretta è la [A] perché “se non TR  allora sicuramente non SU” non si può dedurre con certezza."
+  },
+  {
+    "id": 185,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Dall'implicazione logica si deduce che:  • Se Maria Rosa arriva a casa entro le 16 (condizione sufficiente), sicuramente  vedrà il documentario (condizione necessaria);  • Se non vedrà il documentario, sicuramente sarà arrivata a casa dopo le 16.  Quindi la risposta corretta è la [A] poiché è l’unica che non si può dedurre con  certezza  "
+  },
+  {
+    "id": 186,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La frase è logicamente equivalente a “Se Miriam sostiene l’esame di letteratura  tedesca, allora vuol dire che ha superato l’esame di lingua e traduzione – lingue  portoghese e brasiliana”. Quindi la risposta corretta è la [A]. Infatti, il sostenere  l’esame di lingua e traduzione portoghese e brasiliana è una condizione necessaria  ma non sufficiente per sostenere l’esame di letteratura tedesca. Quindi, Miriam  potrebbe aver superato l’esame di lingua e traduzione e non aver ancora sostenuto  l’esame di letteratura tedesca."
+  },
+  {
+    "id": 187,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "“Non tutti gli ortopedici praticano badminton” è logicamente equivalente a “Alcuni  ortopedici non praticano badminton”. Sapere che Immacolata pratica badminton  non ci dà alcuna informazione certa sul fatto che sia o non sia un ortopedico e lo  stesso vale per chi pratica badminton: potrebbe essere un ortopedico così come  potrebbe non esserlo. La risposta corretta è la [A]."
+  },
+  {
+    "id": 188,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Trasformiamo tutti i frutti in kiwi. La risposta corretta è l’alternativa [A]. Infatti, nel  piatto a sinistra 18 pesche equivalgono a 9 kiwi. Nel piatto a destra 3 kiwi e 3 prugne  equivalgono a 3 kiwi + 6 kiwi = 9 kiwi, quindi i piatti si bilanciano."
+  },
+  {
+    "id": 189,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Consigliamo di analizzare tutte le implicazioni attraverso un disegno con gli insiemi e  le loro intersezioni. Gli YAK sono un sottoinsieme di HDN che, a loro volta, sono un  sottoinsieme di CRW. Quindi l’insieme degli YAK è tutto contenuto nell’insieme dei  CRW. Al contrario, se YNG non è CRW allora vuol dire che l’insieme degli YNG non ha  alcun elemento in comune con CRW e, di conseguenza, non potrà avere alcun  elemento in comune con YAK. La risposta corretta è la [A]."
+  },
+  {
+    "id": 190,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Sappiamo solo che Aristide pratica snowboard. Affinché sia anche un pittore è  necessario affermare che “Aristide è un pittore” (banalmente) oppure che “chi  pratica snowboard è un pittore”. La risposta corretta è dunque la [A]."
+  },
+  {
+    "id": 191,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Classico sillogismo. “Qualche studioso di Storia dei Paesi Islamici è questore”, ma  “ogni questore è bernese”. Quindi ci sarà qualche studioso dei Paesi Islamici che è  (questore è quindi) bernese. La risposta corretta e la [A].  "
+  },
+  {
+    "id": 192,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Come il quesito 184. TU è sufficiente per PWR, quindi significa che l’implicazione  logica è del tipo “se TU allora PWR”. Al contrario, se NIL è condizione necessaria per  PWR, allora l’implicazione logica è del tipo “se PWR allora NIL”. Dalle implicazioni  logiche possiamo dedurre solo i negati dei loro inversi: dalla prima possiamo  dedurre che “se non PWR allora non TU” e dalla seconda “Se non NIL allora non  PWR”. La risposta corretta è la [A] perché “se non PWR allora sicuramente non NIL”  non si può dedurre con certezza."
+  },
+  {
+    "id": 193,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La relazione che lega i due termini del secondo membro è quella tra scrittore e la  sua donna poetica ispiratrice. Pertanto, la risposta corretta è la [A]: Boccaccio  scriveva/si ispirava/amava Fiammetta così come Petrarca scriveva/si ispirava/amava  Laura."
+  },
+  {
+    "id": 194,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Sostituendo le alternative nella proporzione proposta, si evince che l’unica che  generi lo stesso legame ai due membri è l’alternativa [A], che quindi risulta essere la  risposta corretta: Machiavelli ha scritto il Principe così come Beccaria ha scritto Dei  delitti e delle pene."
+  },
+  {
+    "id": 195,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La relazione che lega i due termini del secondo membro è che uno è l’opposto  dell’altro. La riposta corretta è la [A]. Infatti, tenue è un contrario di intenso."
+  },
+  {
+    "id": 196,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Classico quesito di lavoratori che lavorano allo stesso ritmo. Se 9 lavoratori  impiegano 12 giorni per terminare ¼ di ristrutturazione, vuol dire che il rimanente  lavoro di ¾ lo terminerebbero il 36 giorni. Se, invece, hanno solo 9 giorni di tempo  allora il numero di lavoratori deve aumentare in modo inversamente proporzionale  alla diminuzione dei giorni. Ovvero, il prodotto tra lavoratori e giorni deve essere  costante (inversa proporzionalità):  9 lavoratori * 36 giorni = x lavoratori * 9 giorni  Risolvendo otteniamo che x= 9*36 / 9 = 36 lavoratori. Quindi dovranno essere  assunti ancora 36 – 9 = 27 lavoratori. La risposta corretta è la [A]."
+  },
+  {
+    "id": 197,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Se tutti i piloti sono spagnoli, vuol dire che nessun pilota avrà un’altra cittadinanza  diversa da quella spagnola, ad esempio italiana. Quindi la risposta corretta è la [A].   "
+  },
+  {
+    "id": 198,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Per negare che “a tutti i bambini piacciono sia le caramelle sia i regali di Natale” è  sufficiente che vi sia almeno un bambino a cui non piacciano le caramelle o i regali di  Natale.  La risposta corretta è la [A]."
+  },
+  {
+    "id": 199,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "96 euro corrispondono proprio al 40% del costo dei pantaloni (perché nel testo  afferma che rappresentano il risparmio). Quindi, con una proporzione:  96 : 40 = x : 100  Otteniamo che x = 240 euro. La risposta corretta è la [A]."
+  },
+  {
+    "id": 200,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "Ogni anno Luigi paga un affitto (A) più il costo delle spese condominiali (15/100 A).  Se l’affitto è aumentato del 5%, diventando del 105% rispetto allo scorso anno,  possiamo impostare l’equazione:   105/100 (A + 15/100 A) = 12.075 euro  Quindi:  105/100 (115/100 A) = 12.075 euro  A = 12.075 x 100/105 x 100/115  Risolvendo otteniamo che A = 10.000 euro. La risposta corretta è la [A]."
+  },
+  {
+    "id": 201,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].    [x*(1.02)] + [x*(1.02)(0,10)] = 6732 -> x = 6000"
+  },
+  {
+    "id": 202,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].  Sottoinsiemi multipli. 35+37+50=122, 122-11-25=86.  86-65=21 sono le tazze che hanno tutte e tre le caratteristiche. Aiutarsi con un  disegno insiemistico."
+  },
+  {
+    "id": 203,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].  Stesso quesito della 202, ma con risposta diversa.  Sottoinsiemi multipli. 35-11-25=1. Aiutarsi con il disegno degli insiemi."
+  },
+  {
+    "id": 204,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].  Stesso quesito della 202, ma con risposta diversa.  Sottoinsiemi multipli. Questo è il sottoinsieme vuoto come da testo."
+  },
+  {
+    "id": 205,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Stesso quesito della 202, ma con risposta diversa.  Sottoinsiemi multipli. Trovare le parti di insiemi non in comune per ogni categoria:  37-25-11=1, 50-25=25, 35-21-11=3, sommarle 25+3+1=29."
+  },
+  {
+    "id": 206,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].  Fare tabella con le varie informazioni su atleta colore  provenienza e posizione: 1) Matteo Livorno Bianco 2) Luca Trieste Lilla 3) Enrico Asti  Arancione 4) Cosimo Catania Verde."
+  },
+  {
+    "id": 207,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Fare tabella con le varie informazioni su atleta colore  provenienza e posizione: 1) Matteo Livorno Bianco 2) Luca Trieste Lilla 3) Enrico Asti  Arancione 4) Cosimo Catania Verde."
+  },
+  {
+    "id": 208,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Stesso quesito della 207 ma con risposta diversa. Fare  tabella con le varie informazioni su atleta colore provenienza e posizione: 1) Matteo  Livorno Bianco 2) Luca Trieste Lilla 3) Enrico Asti Arancione 4) Cosimo Catania Verde.  "
+  },
+  {
+    "id": 209,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Fare tabella con le varie informazioni su cliente, prezzo,  pietra preziosa. Tania Lapislazzuli 1700, Enrica Turchese 1800, Susanna Agata 1900,  Francesca Smeraldo 2000."
+  },
+  {
+    "id": 210,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Fare tabella con le varie informazioni su cliente, prezzo,  pietra preziosa. Stesso quesito della 209 ma con risposta diversa.  Tania Lapislazzuli 1700, Enrica Turchese 1800, Susanna Agata 1900, Francesca  Smeraldo 2000."
+  },
+  {
+    "id": 211,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Fare tabella con le varie informazioni su cliente, prezzo,  pietra preziosa. Stesso quesito della 209 ma con risposta diversa.  Tania Lapislazzuli 1700, Enrica Turchese 1800, Susanna Agata 1900, Francesca  Smeraldo 2000."
+  },
+  {
+    "id": 212,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Fare tabella con le varie informazioni su clienti, colore  stanza, notti prenotate. 2 notti gialla Arnold, 3 notti bianca Lara, 4 notti azzurra  Danieli, 5 notti verde Evereux."
+  },
+  {
+    "id": 213,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Fare tabella con le varie informazioni su clienti, colore  stanza, notti prenotate. Stesso quesito della 212 ma con risposta diversa. 2 notti  gialla Arnold, 3 notti bianca Lara, 4 notti azzurra Danieli, 5 notti verde Evereux."
+  },
+  {
+    "id": 214,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Fare tabella con le varie informazioni su clienti, colore  stanza, notti prenotate. Stesso quesito della 212 ma con risposta diversa. 2 notti  gialla Arnold, 3 notti bianca Lara, 4 notti azzurra Danieli, 5 notti verde Evereux."
+  },
+  {
+    "id": 215,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Fare tabella con le varie informazioni su padrone  bancarella, articolo venduto, prezzo. Andrea Pere 3,30 eur, Roberta Pomodori 3,40  eur, Simona Pesche 3,50 eur, Gigi Albicocche 3,60 eur.  "
+  },
+  {
+    "id": 216,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Fare tabella con le varie informazioni su padrone  bancarella, articolo venduto, prezzo. Stesso quesito della 215 ma con risposta  diversa. Andrea Pere 3,30 eur, Roberta Pomodori 3,40 eur, Simona Pesche 3,50 eur,  Gigi Albicocche 3,60 eur."
+  },
+  {
+    "id": 217,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Fare tabella con le varie informazioni su padrone  bancarella, articolo venduto, prezzo. Stesso quesito della 215 ma con risposta  diversa. Andrea Pere 3,30 eur, Roberta Pomodori 3,40 eur, Simona Pesche 3,50 eur,  Gigi Albicocche 3,60 eur."
+  },
+  {
+    "id": 218,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Trovare l’intersezione, se esistente, tra gli elementi degli  insiemi proposti. Intersezione tra i primi due insiemi 16 e 19, con il terzo non ci sono  elementi in comune."
+  },
+  {
+    "id": 219,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Trovare l’intersezione, se esistente, tra gli elementi degli  insiemi proposti. Tra il primo e il secondo insieme c’è un elemento in comune (8,  intersezione), il terzo insieme è contenuto nel secondo."
+  },
+  {
+    "id": 220,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Trovare l’intersezione, se esistente, tra gli elementi degli  insiemi proposti. Intersezione tra i tre è 5, 6, intersezione tra il primo e il secondo è  4, 5, 6, tra primo e terzo 0, 5, 6, tra secondo e terzo 1, 3, 5, 6."
+  },
+  {
+    "id": 221,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].  Trovare l’intersezione, se esistente, tra gli elementi  degli insiemi proposti. Esiste chi ha letto gialli e romanzi, chi ha letto storici e  romanzi, ma non chi ha letto gialli e libri storici."
+  },
+  {
+    "id": 222,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].  Trovare l’intersezione, se esistente, tra gli elementi  degli insiemi proposti. Insieme di chi è andato al negozio di scarpe, un suo  sottoinsieme è andato anche al negozio di abbigliamento, chi è andato in  profumeria è un insieme a sè.  "
+  },
+  {
+    "id": 223,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].  Trovare l’intersezione, se esistente, tra gli elementi  degli insiemi proposti. Benzinai possono essere sia madrileni che tedeschi. Questi  ultimi due invece non hanno elementi in comune."
+  },
+  {
+    "id": 224,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].  Trovare l’intersezione, se esistente, tra gli elementi  degli insiemi proposti. SS si trova nell’insieme che non ha elementi in comune con gli  altri due."
+  },
+  {
+    "id": 225,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Numero lati -1."
+  },
+  {
+    "id": 226,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].  Contare i lati delle figure."
+  },
+  {
+    "id": 227,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Numero dei colori + 1. Numero massimo di palline di un  colore + 1."
+  },
+  {
+    "id": 228,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Associare ad ogni città la lettera corrispondente  partendo da quelle che sono sicure (distanze 5km, 8km). Si ottiene così: A (Rombo),  B (Cerchio), C (Pentagono), D (Triangolo), E (Dodecagono), F (Quadrato), G  (Esagono)."
+  },
+  {
+    "id": 229,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Associare ad ogni città la lettera corrispondente  partendo da quelle che sono sicure (distanze 5km, 8km). Stessa domanda della 228,  ma con risposta diversa. Si ottiene così: A (Rombo), B (Cerchio), C (Pentagono), D  (Triangolo), E (Dodecagono), F (Quadrato), G (Esagono)."
+  },
+  {
+    "id": 230,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Associare ad ogni città la lettera corrispondente  partendo da quelle che sono sicure (distanze 5km, 8km). Stessa domanda della 228,  ma con risposta diversa. Si ottiene così: A (Rombo), B (Cerchio), C (Pentagono), D  (Triangolo), E (Dodecagono), F (Quadrato), G (Esagono)."
+  },
+  {
+    "id": 231,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Eliminare i vari cognomi per i turni del torneo in base  alle informazioni fornite dal testo.  "
+  },
+  {
+    "id": 232,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ricavare la tavola di verità della proposizione A e B, poi  non C, poi la congiunzione tra le due."
+  },
+  {
+    "id": 233,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A].  Escludere le varie figure partendo dai singoli dettagli  colorati al contrario."
+  },
+  {
+    "id": 234,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La figura non si ottiene per rotazione dalle altre."
+  },
+  {
+    "id": 235,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La risposta corretta è la [A]. La figura non è stata fatta  con gli stessi blocchi delle altre."
+  },
+  {
+    "id": 236,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La parola si ottiene dalle lettere di quella sopra  aggiungendo ad ognuna il numero di posizioni indicato (considerare l’alfabeto  inglese)."
+  },
+  {
+    "id": 237,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La parola si ottiene dalle lettere di quella sopra  aggiungendo ad ognuna il numero di posizioni indicato (considerare l’alfabeto  inglese)."
+  },
+  {
+    "id": 238,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Le tre figure all’interno di ogni riquadro sono sempre le  stesse ma la posizione tra di loro è differente nella figura 1 perché la stella a tre  punte non ha un braccio parallelo al rettangolo, cosa che invece succede in tutte le  altre."
+  },
+  {
+    "id": 239,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La figura è diversa dalle altre."
+  },
+  {
+    "id": 240,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La somma dei dadi nelle due parti del domino deve  essere uguale."
+  },
+  {
+    "id": 241,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sono le parti di un segnale di pericolo.  "
+  },
+  {
+    "id": 242,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Controllare il numero delle medaglie nell’anno indicato  dal testo."
+  },
+  {
+    "id": 243,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sommare le medaglie nei vari anni e trovare il maggiore."
+  },
+  {
+    "id": 244,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sommare le medaglie d’oro negli anni indicati."
+  },
+  {
+    "id": 245,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Il numero di 4 cifre termina con due cifre dispari, quindi  è dispari."
+  },
+  {
+    "id": 246,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sostituire e risolvere x+6=2x-3."
+  },
+  {
+    "id": 247,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Assegnare ai 5 partiti con meno seggi il numero minimo  (10, 11, 12, 13, 14), di conseguenza gli altri 5 avranno il numero massimo. Fare la  media dei seggi rimasti, questo sarà il terzo partito più numeroso, togliere 2 e  trovare il 5 partito più numeroso."
+  },
+  {
+    "id": 248,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Sillogismo. Sara è sincera, tutte le persone sincere sono  oneste, quindi Sara è onesta."
+  },
+  {
+    "id": 249,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Alle vocali viene sostituito il numero corrispondente al  loro ordine (a,e,i,o,u = 1,2,3,4,5). Perciò C53 = CUI"
+  },
+  {
+    "id": 250,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Controllare se i numeri indicati sono divisibili per 7 e per  4 e assegnare il punteggio."
+  },
+  {
+    "id": 251,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. 27/216*100."
+  },
+  {
+    "id": 252,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Soggetti che lavorano a ritmi diversi. In 1 h fanno 1/4 +  1/3 + 1/6 = 3/4 di 1 sacco. 3/4 :1 h = 87 sacchi : x."
+  },
+  {
+    "id": 253,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ricostruire il senso della frase scomponendola a pezzi.  Ricordandosi che due negazioni affermano. Semplificando rimane: sig. Rossi non si  astiene dal manifestare avversione per il sig. Bianchi. Quindi manifesta inimicizia."
+  },
+  {
+    "id": 254,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Scomporre in fattori e trovare il fattore in comune, 7."
+  },
+  {
+    "id": 255,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. 600*0.4=240 fatturato dopo il 1 anno. 240*0.5=120  fatturato dopo il 2 anno, 120*0.1=12 fatturato dopo il 3 anno."
+  },
+  {
+    "id": 256,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. 580 è il 25% del prezzo iniziale, che era quindi  580/25*100=2320."
+  },
+  {
+    "id": 257,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Trovare prima M.C.D. tra i tre numeri e viene 56.   Poi, per trovare il numero di persone in ogni gruppo sommare 616/56 + 728/56 +  784/56 = 38."
+  },
+  {
+    "id": 258,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Il prezzo del secondo articolo sarà 0.85 (primo sconto  applicato è il 15%) * 0.20 (secondo sconto applicato è infatti 80%) *100. Quindi il  prezzo è il 17% di quello iniziale."
+  },
+  {
+    "id": 259,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Le donne maggiorenni sono 2/5 * 60 = 24. Quindi al  minimo (se queste fossero tutte > 65 anni) i biglietti scontati sarebbero 24+16 dei  minorenni.  "
+  },
+  {
+    "id": 260,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Risolvere l’equazione di 1 grado: (16+x)*2 = 57 + x."
+  },
+  {
+    "id": 261,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Il perimetro del triangolo ottenuto sarà √(225)*3=45.  Aiutarsi con un disegno di un triangolo fatto da 4 o da 9 triangolini per capire che il  lato è la radice dell’area"
+  },
+  {
+    "id": 262,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Se tutte le 52 femmine fossero castane, con gli occhiali e  in corso, i maschi con tali caratteristiche sarebbero 67, 53 e 77. Se sommiamo questi  sottoinsiemi dell’insieme dei maschi otteniamo 197. Ma i maschi sono 98, quindi  esistono alcuni che sono stati contati 2 volte perché fanno parte di 2 dei  sottoinsiemi, ne rimane 1 (197-98-98) che è stato contato 3 volte perché fa parte di  tutti e tre i sottoinsiemi."
+  },
+  {
+    "id": 263,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Negazione di una totalità, è sufficiente che ci sia un caso  non verificato per negare tutta la frase."
+  },
+  {
+    "id": 264,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Dal momento che la somma degli elementi dei vari  insiemi a due a due supera il 100% è necessario che ci sia almeno un elemento che  appartiene a tutti e tre gli insiemi."
+  },
+  {
+    "id": 265,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Salvina ha 6 anni, Rolando 8 e Linda 4. Quindi a Linda  spettano 288/(6+8+4)*4 biglie."
+  },
+  {
+    "id": 266,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Tutte le babysitter sono giovani -> amano ballare -> non  sono timide."
+  },
+  {
+    "id": 267,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Tutti i fiorettisti sono agili -> conoscono il francese. Non  esiste un fiorettista non agile che non conosce il francese."
+  },
+  {
+    "id": 268,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Posso dedurre che: se Filippo Maria non è di umore  nero, vuol dire che non indossa la maglietta di colore crema.  "
+  },
+  {
+    "id": 269,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ricostruire il senso della frase scomponendola a pezzi.  Ricordandosi che due negazioni affermano. Semplificando rimane: nego che alcuni  professori non sono preparati. Quindi sono tutti preparati."
+  },
+  {
+    "id": 270,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ricostruire il senso della frase scomponendola a pezzi.  Ricordandosi che due negazioni affermano. Semplificando rimane: nega che almeno  una finestra sul cortile non è spalancata. Quindi sono tutte spalancate."
+  },
+  {
+    "id": 271,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Con le informazioni del testo si sa che Tiziana ha più  anzianità di servizio di tutti, poi ci sono Iolanda e Stefano (non sappiamo in quale  ordine), poi Francesca e poi Giorgio e Matteo (non sappiamo in quale ordine)."
+  },
+  {
+    "id": 272,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Essere un fiore della violetta è condizione sufficiente per  non essere di colore rosso. Quindi si deduce che: se è di colore rosso un fiore non è  una violetta."
+  },
+  {
+    "id": 273,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Ricostruire il senso della frase scomponendola a pezzi.  Ricordandosi che due negazioni affermano. Semplificando rimane: non è erroneo  stabilire che il quadro sia stato certamente dipinto da Modigliani."
+  },
+  {
+    "id": 274,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La risposta corretta è la [A]. Ricostruire il senso della  frase scomponendola a pezzi. Ricordandosi che due negazioni affermano.  Semplificando rimane: non è errato stabilire che le sedie acquistate siano  certamente comode."
+  },
+  {
+    "id": 275,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Calcolare il prezzo a metro quadrato dei professionisti.  Prima si calcola l’area della singola piastrella, si converte in m2 e si divide il prezzo  della piastrella per questa area. Si ottiene così che Marco costa 20eur a m2, Franco  22 eur, Andrea 20,8 eur, Giulio 22,5 eur, Tiziano 25 eur."
+  },
+  {
+    "id": 276,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. I banchi sono 6*8=48, se si dividono in file da 12  diventano 48/12=4 file.  "
+  },
+  {
+    "id": 277,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. La deduzione possibile è che: se i prezzi non sono  diminuiti allora non ha piovuto. Ma i prezzi potrebbero diminuire anche per altri  motivi, perché la condizione non è necessaria."
+  },
+  {
+    "id": 278,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Luca è nato a Marzo, Matteo 2 mesi dopo quindi  Maggio, Gabriele è nato a Luglio, Vincenzo è nato tra Matteo e Gabriele quindi in  Giugno."
+  },
+  {
+    "id": 279,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Deduzione possibile: tutti gli abitanti della Groenlandia  sono scandinavi e non sono calciatori."
+  },
+  {
+    "id": 280,
+    "materia": "ragionamento logico e problemi",
+    "spiegazione": "La risposta corretta è la [A]. Il secondo insieme ha elementi in comune con il primo  (13, 10) e il terzo (6), ma questi ultimi non hanno elementi in comune tra loro."
+  }
+]
